@@ -12,5 +12,5 @@ end
 # call method
 collection = [1, 2, 3, 4]
 my_each(collection) do |i|
-puts i
+print i
 end
